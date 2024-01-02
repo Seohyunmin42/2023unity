@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "357983752527",
+    "firebase_url": "https://escapevr-95e9a-default-rtdb.firebaseio.com",
+    "project_id": "escapevr-95e9a",
+    "storage_bucket": "escapevr-95e9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357983752527:android:bce3edb855710bc52b353a",
+        "android_client_info": {
+          "package_name": "com.firebase.vr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCzYIwG8mMhkR0whieZxzfoO8eSLx-L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
