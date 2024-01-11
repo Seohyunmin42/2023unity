@@ -11,6 +11,6 @@ Unity 엔진을 활용하여 제작되었으며 VR Escape게임으로 포트폴�
 - 개발언어 : C#
 
 
-## 영상 및 기술서
+## 영상 및 PPT
 - 동영상 : https://youtu.be/APrIfg43NV4
-- 기술서 : http://naver.me/IMnqNg2O
+- PPT : http://naver.me/xWBtRs4n
